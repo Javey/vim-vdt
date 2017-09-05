@@ -1,0 +1,10 @@
+var a = self.get('a')
+1a
+<div>
+    <!--test-->
+    <span a={{ test }} b={{ sdfsd }}>sdfdsf</span>
+    <div>sdfldfj</div>
+    {{ function() {
+        console.log('1')
+    } }}
+</div>
